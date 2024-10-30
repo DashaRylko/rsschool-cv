@@ -1,6 +1,6 @@
 # CV 
 
-![photo](/photo_2024-10-30_22-30-12.jpg "Photo")
+![photo](https://github.com/DashaRylko/rsschool-cv/blob/gh-pages/photo_2024-10-30_22-30-12.jpg "Photo")
 
 * ###### Name:
     + Rylko Darya
