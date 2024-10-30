@@ -1,5 +1,7 @@
 # CV 
 
+![photo](/photo_2024-10-30_22-30-12.jpg "Photo")
+
 * ###### Name:
     + Rylko Darya
 * ###### Contact Information:
